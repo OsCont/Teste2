@@ -53,7 +53,7 @@ class MainActivity : AppCompatActivity() {
     private fun onPermissionGranted() {
         textViewStatus.text = "Permissão concedida!"
 
-
+        // testando github
     }
 
     override fun onRequestPermissionsResult(
